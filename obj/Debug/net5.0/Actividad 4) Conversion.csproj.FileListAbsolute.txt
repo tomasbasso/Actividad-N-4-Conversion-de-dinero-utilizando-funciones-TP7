@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\ITES\Programacion\Trabajo practico 7\Actividad 4) Conversion\bin\Debug\net5.0\Actividad 4) Conversion.exe
+C:\Users\Usuario\Desktop\ITES\Programacion\Trabajo practico 7\Actividad 4) Conversion\bin\Debug\net5.0\Actividad 4) Conversion.deps.json
+C:\Users\Usuario\Desktop\ITES\Programacion\Trabajo practico 7\Actividad 4) Conversion\bin\Debug\net5.0\Actividad 4) Conversion.runtimeconfig.json
+C:\Users\Usuario\Desktop\ITES\Programacion\Trabajo practico 7\Actividad 4) Conversion\bin\Debug\net5.0\Actividad 4) Conversion.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ITES\Programacion\Trabajo practico 7\Actividad 4) Conversion\bin\Debug\net5.0\Actividad 4) Conversion.dll
+C:\Users\Usuario\Desktop\ITES\Programacion\Trabajo practico 7\Actividad 4) Conversion\bin\Debug\net5.0\Actividad 4) Conversion.pdb
+C:\Users\Usuario\Desktop\ITES\Programacion\Trabajo practico 7\Actividad 4) Conversion\obj\Debug\net5.0\Actividad 4) Conversion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ITES\Programacion\Trabajo practico 7\Actividad 4) Conversion\obj\Debug\net5.0\Actividad 4) Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ITES\Programacion\Trabajo practico 7\Actividad 4) Conversion\obj\Debug\net5.0\Actividad 4) Conversion.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ITES\Programacion\Trabajo practico 7\Actividad 4) Conversion\obj\Debug\net5.0\Actividad 4) Conversion.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ITES\Programacion\Trabajo practico 7\Actividad 4) Conversion\obj\Debug\net5.0\Actividad 4) Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ITES\Programacion\Trabajo practico 7\Actividad 4) Conversion\obj\Debug\net5.0\Actividad 4) Conversion.dll
+C:\Users\Usuario\Desktop\ITES\Programacion\Trabajo practico 7\Actividad 4) Conversion\obj\Debug\net5.0\refint\Actividad 4) Conversion.dll
+C:\Users\Usuario\Desktop\ITES\Programacion\Trabajo practico 7\Actividad 4) Conversion\obj\Debug\net5.0\Actividad 4) Conversion.pdb
+C:\Users\Usuario\Desktop\ITES\Programacion\Trabajo practico 7\Actividad 4) Conversion\obj\Debug\net5.0\Actividad 4) Conversion.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ITES\Programacion\Trabajo practico 7\Actividad 4) Conversion\obj\Debug\net5.0\ref\Actividad 4) Conversion.dll
